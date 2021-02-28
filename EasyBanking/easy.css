@@ -407,7 +407,7 @@ footer .right{
 .attribution{
     width: 100%;
     position: absolute;
-    bottom: 10%; left:50%;
+    bottom: 3%; left:50%;
     transform: translate(-50%);
     margin:0 auto;
 }
